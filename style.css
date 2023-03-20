@@ -503,7 +503,7 @@ ul.social-icons li:hover a {
   }
   .content {
     margin: 0;
-    padding: 7rem 4rem 0 7rem;
+    padding: 7rem 2rem 0 3rem;
   }
 
   button {
@@ -564,3 +564,5 @@ ul.social-icons li:hover a {
     font-size: 0.6rem;
   }
 }
+
+
